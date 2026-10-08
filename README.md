@@ -9,3 +9,6 @@ Adrián Lázaro, Ignacio Ibáñez-Rizo y Christian Vázquez
 
 ## Ejecutar el contenedor
 > docker run --name contenedor-notas informe-notas:latest
+
+# Enlace a la PR
+https://github.com/Naxito04/reto-docker/pull/1
